@@ -57,9 +57,9 @@ Dheeraj Pandey -> Creating and implementing the ML models + data pre-processing
 
 Tanmay Parashar-> Data pre-processing + Symptom matching using query expansion via Synonyms(included in Final_file.ipynb)
 
-Nitesh Kumar chaurasia -> Symptom matching using query expansion via Synonyms((included in Final_file.ipynb) ) + data cleaning 
+Nitesh Kumar chaurasia -> Symptom matching using query expansion via Synonyms((included in Final_file.ipynb) ) + Data pre-processing 
 
-Shubham kumar chaoudhary -> PowerPoint createing & presentation + Web scraping to generate medication and treatment to respective diseases(included in Final_file.ipynb) 
+Shubham kumar chaoudhary -> PowerPoint creating & presentation + Web scraping to generate medication and treatment to respective diseases(included in Final_file.ipynb) 
 
 Mohit singh tanwar -> EDA + Web scraping to generate medication and treatment to respective diseases(included in Final_file.ipynb) + Report generation and respective documentation
 Feel free to contact any of us in case of any problem faced.
