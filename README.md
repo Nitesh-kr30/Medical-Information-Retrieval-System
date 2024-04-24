@@ -59,7 +59,7 @@ Tanmay Parashar-> Data pre-processing + Symptom matching using query expansion v
 
 Nitesh Kumar chaurasia -> Symptom matching using query expansion via Synonyms((included in Final_file.ipynb) ) + Data pre-processing 
 
-Shubham kumar chaoudhary -> PowerPoint creating & presentation + Web scraping to generate medication and treatment to respective diseases(included in Final_file.ipynb) 
+Shubham kumar chaoudhary -> PowerPoint creating & presentation + Web scraping to generate medication and treatment to respective diseases(included in Final_file.ipynb) + Symptom fetching via matching 
 
 Mohit singh tanwar -> EDA + Web scraping to generate medication and treatment to respective diseases(included in Final_file.ipynb) + Report generation and respective documentation
 Feel free to contact any of us in case of any problem faced.
