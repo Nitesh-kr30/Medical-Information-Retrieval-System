@@ -51,15 +51,3 @@ In our existing project, we take input from the user, perform lemmatization of t
 
 Project came into reality_ by [Shreeram kumar singh](shreeram23091@iiitd.ac.in), [Mohit singh tanwar](Mohit23127@iiitd.ac.in) and [Dheeraj pandey](dheeraj23034@iiitd.ac.in) and [Nitesh kumar chaurasia](nitesh23053@iiitd.ac.in), [Tanmay Parashar](tanmay23100@iiitd.ac.in) and [Shubham kumar choudhary](shubham23093@iiitd.ac.in)
 
-Shreeram kumar singh -> Web scraping helping in creating the dataset + implementation of ML models
-
-Dheeraj Pandey -> Creating and implementing the ML models + data pre-processing 
-
-Tanmay Parashar-> Data pre-processing + Symptom matching using query expansion via Synonyms(included in Final_file.ipynb)
-
-Nitesh Kumar chaurasia -> Symptom matching using query expansion via Synonyms((included in Final_file.ipynb) ) + Data pre-processing 
-
-Shubham kumar chaoudhary -> PowerPoint creating & presentation + Web scraping to generate medication and treatment to respective diseases(included in Final_file.ipynb) + Symptom fetching via matching 
-
-Mohit singh tanwar -> EDA + Web scraping to generate medication and treatment to respective diseases(included in Final_file.ipynb) + Report generation and respective documentation
-Feel free to contact any of us in case of any problem faced.
